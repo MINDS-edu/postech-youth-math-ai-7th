@@ -61,7 +61,7 @@
 [강사구글닥스](https://docs.google.com/document/d/1F0pm9ecaNMEE4v_u0v-alpU5aY_50KT9NqsoEhwu6fU/edit?tab=t.0)  
   
 [Repository]   
-[6기 1반](https://github.com/HiddenBeginner/The-6th-POSTECH-Youth-Mathematical-Artificial-Intelligence-Academy-Class1)  
+[6기 1반](https://github.com/HiddenBeginner/The-6th-POSTECH-Youth-Mathematical-Artificial-Intelligence-Academy-Class1)/[2반](https://github.com/MINDS-edu/The-6th-POSTECH-Youth-Mathematical-Artificial-Intelligence-Academy-Class2)
 [5기](https://github.com/MINDS-edu/The-5th-POSTECH-Youth-Mathematical-Artificial-Intelligence-Academy)  
 [4기](https://github.com/MINDS-edu/The-4th-POSTECH-Youth-Mathematical-Artificial-Intelligence-Academy-Public)  
 [3기](https://github.com/MINDS-edu/The-3rd-POSTECH-Youth-Mathematical-Artificial-Intelligence-Academy)  
