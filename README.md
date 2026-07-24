@@ -30,9 +30,9 @@
 |강사|박해룡|물리학과|phrphr@postech.ac.kr|
 |강사|임재형|인공지능대학원|jaehyunglim@postech.ac.kr|
 |강사|김병규|컴퓨터공학과|qudrb6989@postech.ac.kr|
-|조교|한승완|수학과|han97@postech.ac.kr|
-|조교|이정민|인공지능대학원|jungmin.lee@postech.ac.kr|
-|조교|전병연|인공지능대학원|byungyunjeon@postech.ac.kr|
+|강사|한승완|수학과|han97@postech.ac.kr|
+|강사|이정민|인공지능대학원|jungmin.lee@postech.ac.kr|
+|강사|전병연|인공지능대학원|byungyunjeon@postech.ac.kr|
 
 
 
