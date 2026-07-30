@@ -1,4 +1,4 @@
-https://drive.google.com/drive/mobile/my-drive
+https://drive.google.com/drive/folders/1y24EQnQvG6oan-Urw2MmKK4D2zFlPDh9
 # 7회 포스텍청소년수리인공지능아카데미
 <img width="422" height="596" alt="image" src="poster_7th.png" />
 
