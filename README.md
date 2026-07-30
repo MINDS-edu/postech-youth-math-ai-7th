@@ -1,4 +1,3 @@
-https://drive.google.com/drive/folders/1y24EQnQvG6oan-Urw2MmKK4D2zFlPDh9
 # 7회 포스텍청소년수리인공지능아카데미
 <img width="422" height="596" alt="image" src="poster_7th.png" />
 
@@ -26,14 +25,21 @@ https://drive.google.com/drive/folders/1y24EQnQvG6oan-Urw2MmKK4D2zFlPDh9
 |---|---|---|---|
 |교육 책임|정재훈 교수님|수학과|jung153@postech.ac.kr|
 |행정 및 운영|곽주영 선생님|수학과|juyoungkwak0@postech.ac.kr|
+|강사|한승완|수학과|han97@postech.ac.kr|
+|강사|Jiaxi Gu|수학과|chb2701@postech.ac.kr|
+|강사|이동진|인공지능대학원|dongjinlee@postech.ac.kr|
+|강사|이성현|인공지능대학원|shlee0125@postech.ac.kr|
 |강사|이지호|인공지능대학원|jihlee@postech.ac.kr|
 |강사|염시진|인공지능대학원|yeomsijin@postech.ac.kr|
-|강사|박해룡|물리학과|phrphr@postech.ac.kr|
 |강사|임재형|인공지능대학원|jaehyunglim@postech.ac.kr|
-|강사|김병규|컴퓨터공학과|qudrb6989@postech.ac.kr|
-|강사|한승완|수학과|han97@postech.ac.kr|
-|강사|이정민|인공지능대학원|jungmin.lee@postech.ac.kr|
 |강사|전병연|인공지능대학원|byungyunjeon@postech.ac.kr|
+|강사|김병규|컴퓨터공학과|qudrb6989@postech.ac.kr|
+|강사|김우주|컴퓨터공학과|kimuj0103@postech.ac.kr|
+|강사|박해룡|물리학과|phrphr@postech.ac.kr|
+|강사|최지훈|산업경영공학과|chb2701@postech.ac.kr|
+
+
+
 
 
 
@@ -60,7 +66,7 @@ https://drive.google.com/drive/folders/1y24EQnQvG6oan-Urw2MmKK4D2zFlPDh9
 | | 4차 | | [실습] 프로젝트 수상 및 수료증 | |
 ## 관련 링크
 [강사구글닥스](https://docs.google.com/document/d/1F0pm9ecaNMEE4v_u0v-alpU5aY_50KT9NqsoEhwu6fU/edit?tab=t.0)  
-  
+[손가락 데이터](https://drive.google.com/drive/folders/1y24EQnQvG6oan-Urw2MmKK4D2zFlPDh9)  
 [Repository]   
 [6기 1반](https://github.com/HiddenBeginner/The-6th-POSTECH-Youth-Mathematical-Artificial-Intelligence-Academy-Class1)/[2반](https://github.com/MINDS-edu/The-6th-POSTECH-Youth-Mathematical-Artificial-Intelligence-Academy-Class2)  
 [5기](https://github.com/MINDS-edu/The-5th-POSTECH-Youth-Mathematical-Artificial-Intelligence-Academy)  
